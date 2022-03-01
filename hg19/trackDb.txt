@@ -1,0 +1,335 @@
+track FDrna_pcw17_12570_lv.rpm.minus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b546a4d5a68e8718a8/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_lv.rpm.minus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_lv.rpm.plus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5edd74487d06c0915/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_lv.rpm.plus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_rv.rpm.minus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5602b8ffca6b0ec6e/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_rv.rpm.minus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_rv.rpm.plus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50edb5b3605a4db85/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_rv.rpm.plus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_la.rpm.minus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5228154dc26403c00/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_la.rpm.minus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_la.rpm.plus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59ae33c4cdb2d633d/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_la.rpm.plus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_ra.rpm.minus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52a8358785d90b132/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_ra.rpm.minus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51
+
+track FDrna_pcw17_12570_ra.rpm.plus
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52cb79c837dc5ed88/display?to_ext=bigwig
+shortLabel Caylin_RNA_FD
+longLabel FDrna_pcw17_12570_ra.rpm.plus
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,153,51  
+
+track MZchip_LPCS_100915_1B_pcw17_12570_lv_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ffc011a4cfef871a/display?to_ext=bigwig
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_100915_1B_pcw17_12570_lv_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,204  
+
+track MZchip_LPCS_1Bsample_1Einput_LV_h3k27ac_peaks
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5a15042673907c24d/display?to_ext=bigbed
+itemRgb on
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_1Bsample_1Einput_LV_h3k27ac_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,153,204 
+
+track FDchip_pcw17_12570_lv_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5eb23bbbd625277d5/display?to_ext=bigwig
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_lv_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,102,204 
+
+track FDchip_pcw17_12570_lv_h3k27ac_peaks
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b560fc9a63eea64d54/display?to_ext=interval
+itemRgb on
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_lv_h3k27ac_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,102,204 
+
+track MZchip_LPCS_082815_2E_pcw17_12570_rv_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5cdc7a779be49139e/display?to_ext=bigwig
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_082815_2E_pcw17_12570_rv_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,204  
+
+track MZchip_LPCS_2Esample_2Ginput_RV_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56588bf64d9a73be8/display?to_ext=bigbed
+itemRgb on
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_2Esample_2Ginput_RV_h3k27ac       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,153,204
+
+track FDchip_pcw17_12570_rv_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53e732ce1ae10d056/display?to_ext=bigwig
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_rv_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,102,204 
+
+track FDchip_pcw17_12570_rv_h3k27ac_peaks
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ffe49582564523b3/display?to_ext=interval
+itemRgb on
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_rv_h3k27ac_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,102,204
+
+track MZchip_LPCS_100915_1A_pcw17_12570_la_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d2f305359ef91348/display?to_ext=bigwig
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_100915_1A_pcw17_12570_la_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,204  
+
+track MZchip_LPCS_1Asample_1Dinput_LA_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57b48bb6ec5cec488/display?to_ext=bigbed
+itemRgb on
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_1Asample_1Dinput_LA_h3k27ac       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,153,204 
+
+track FDchip_pcw17_12570_la_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57a06e62fd0fd6461/display?to_ext=bigwig
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_la_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,102,204 
+
+track FDchip_pcw17_12570_la_h3k27ac_peaks
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5065da710f5dc8a8a/display?to_ext=interval
+itemRgb on
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_la_h3k27ac_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,102,204 
+
+track MZchip_LPCS_082815_2D_pcw17_12570_ra_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f3d1cd391fcfe9a0/display?to_ext=bigwig
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_082815_2D_pcw17_12570_ra_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,204  
+
+track MZchip_LPCS_2Dsample_2Finput_RA_h3k27ac_peaks
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5459b5986586d5124/display?to_ext=bigbed
+itemRgb on
+shortLabel Caylin_ChIP_MZ
+longLabel MZchip_LPCS_2Dsample_2Finput_RA_h3k27ac_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,153,204  
+
+track FDchip_pcw17_12570_ra_h3k27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53db956f77f14dc52/display?to_ext=bigwig
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_ra_h3k27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,102,204 
+
+track FDchip_pcw17_12570_ra_h3k27ac_peaks
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b516ed7015fddf9610/display?to_ext=interval
+itemRgb on
+shortLabel Caylin_ChIP_FD
+longLabel FDchip_pcw17_12570_ra_h3k27ac_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 102,102,204 
