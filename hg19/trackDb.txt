@@ -164,7 +164,7 @@ viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
-yLineMark 1
+yLineMark off
 gridDefault off
 color 102,102,204 
 
@@ -216,7 +216,7 @@ viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
-yLineMark 1
+yLineMark off
 gridDefault off
 color 102,102,204 
 
@@ -268,7 +268,7 @@ viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
-yLineMark 1
+yLineMark off
 gridDefault off
 color 102,102,204 
 
@@ -320,7 +320,7 @@ viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
-yLineMark 1
+yLineMark off
 gridDefault off
 color 102,102,204 
 
