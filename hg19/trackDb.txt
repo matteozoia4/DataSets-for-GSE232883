@@ -12,7 +12,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_lv.rpm.plus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5edd74487d06c0915/display?to_ext=bigwig
@@ -28,7 +28,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_rv.rpm.minus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5602b8ffca6b0ec6e/display?to_ext=bigwig
@@ -44,7 +44,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_rv.rpm.plus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50edb5b3605a4db85/display?to_ext=bigwig
@@ -60,7 +60,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_la.rpm.minus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5228154dc26403c00/display?to_ext=bigwig
@@ -76,7 +76,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_la.rpm.plus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59ae33c4cdb2d633d/display?to_ext=bigwig
@@ -92,7 +92,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_ra.rpm.minus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52a8358785d90b132/display?to_ext=bigwig
@@ -108,7 +108,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51
+color 102,153,255 
 
 track FDrna_pcw17_12570_ra.rpm.plus
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52cb79c837dc5ed88/display?to_ext=bigwig
@@ -124,7 +124,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,51  
+color 102,153,255   
 
 track MZchip_LPCS_100915_1B_pcw17_12570_lv_h3k27ac
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ffc011a4cfef871a/display?to_ext=bigwig
