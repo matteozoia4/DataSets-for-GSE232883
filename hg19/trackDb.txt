@@ -717,3 +717,2018 @@ type bigBed 3 .
 configurable on
 visibility dense
 color 102,102,204 
+
+track 14315_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57020d2f34affa1f4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f541729e7bb773c3/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ec874e90c4c17f84/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b54e4f15c4b748525e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b551257c346445973e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50c8d4b5c8dcf5736/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5564662b48ad8902c/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5349d8d915b916075/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5693b500ee46bb104/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e567ee918c983252/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d79ddc57bd1c3fca/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53b87196d83217293/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5093802aa137dd5c7/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5709b0f50ad39f171/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5a7c58c5ff68ef797/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12059_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5514a9ac9f16a05f6/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b508f1fc7050d8c6fd/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K36me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56f184002fe9add41/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K36me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14315_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5001801e8bdb8b8d4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5eaaea47c0d545335/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b566997a2cc5cb29d9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5178ad7fd4345d65d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5290373328f077fb5/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5756c681cbc075a37/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5b635fca21120000f/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b55e327a360676b9c4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50a4c9460bf5d07dd/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f15715e0e92425b7/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50cb7d4861800efb0/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b502d906f77cbb6a1c/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56c2f4c7d752a0495/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53c3b9bd8f56baf55/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5275441f64dcbe8e0/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12059_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ab51b8923cbc36f0/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e18784bf8c61fc66/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K9me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5a8e36e72b0b8fe57/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K9me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14315_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d6eef118a39ce5ea/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e7675ea94ba37864/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5daa60c1ebf66c842/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5cfa5c082250c324e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b565002405dc6739c1/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b54576980bbcf1f18f/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56b5efb4f781b3100/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53158db806a907771/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53570215d84c9c000/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52a28195510985aa7/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d6a6c6d98c4c7260/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b523f48b3147d2a801/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b537ec471a7ae6c355/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5c054df024cde87e4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5839c76fe68ecfea4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12059_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e5f6cd25262c6c8d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5da27f82a88cc1ae3/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K27me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5fc5f2d95018e8207/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K27me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14315_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53d64a2efa8ce9fa5/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53106aadfda56a66d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b509a9855ef20c291d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5304e1dbebad97da9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5165c24213bd0cc7d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59fe23a4d2e5b397a/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5dc0817def40b22fe/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56f921ca5f9bfc9ee/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58534c7c568b6b270/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5821cf4369aedde8d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b596d41ad07c664abe/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b585fa7a35f216ef7e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b523c4fd7053b63e1b/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59e8cbaa4fdc226a3/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53140d1b4b380cbcf/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12059_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59a9bd26590e953b8/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5c1b880ecd2a1a613/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K27ac
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5b15b151586142e7d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K27ac
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14315_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d96e54ad020e2b46/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b528826fc814baeb5c/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58390587adf4c0e4f/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5b87c24798177e11b/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5cafeded10731d691/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59faa73bdf5db7999/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b531ab1421bc7cd46a/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58b5fdf12b3ef442e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e12e76b3bf6ab001/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5a640d7edbb3c520c/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f4712180638cd3f9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d0573df2d2d1d453/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K4me3.
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53780c071c8a2ff47/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K4me3.
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5433cf22e0f985da0/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5238e0ab0baa30bf5/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12059_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5afedf5d46c584e3c/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b509bf193bcc71f001/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K4me3
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b570592eab4b0d2c7d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K4me3
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14315_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5c1c10a8881230531/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b512826c6df99360cb/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f94b3569cbcfffda/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b55180273d6ae566f9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5bdaf7d74a3988f60/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59d8f47321ed0cf4d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5bd6dae9bed251d1a/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b511fd6ec33d874bf1/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56410532b6993202d/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59defce7362d318d4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e035bd8e88eb2557/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5fbae6378bd763e6f/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5acb64653f81d27f8/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57292b940ae9b12a9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b590c82c1b7d7c0a61/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56484297d67780d57/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53bfef6971b9dffa8/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K4me2
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52fef38b2fd1f89c1/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K4me2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14315_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b54c5cdb2cf84be87b/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14315_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 14135_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57ee052e4f299f713/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 14135_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12997_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53675e01dd48efc2f/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12997_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12690_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50a01bb3201717083/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12690_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12456_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5360834ecf7c7516e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12456_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12451_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ddcec97c68e6918e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12451_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12448_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b597c3d663b39e5df9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12448_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12408_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58f63c51ce4fc5b84/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12408_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12383_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5c6f58c9d016056d4/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12383_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12331_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56f80a48e44ab1024/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12331_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12291_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ff6c2a7e291e7962/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12291_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12151_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ff2551c9c4699c2e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12151_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12135_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53ccbb58ac175674e/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12135_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12093_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b528e85d4dd3f039c3/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12093_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12059_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5c5d33b1a0952cc54/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12059_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 12058_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56dc2e28d8a006967/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 12058_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11914_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d6610e4aeec58f4f/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11914_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
+
+track 11849_H3K4me1
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b546b29d42563530d9/display?to_ext=bigwig
+shortLabel VanOudenhove_ChIP
+longLabel 11849_H3K4me1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,153,255
