@@ -2385,7 +2385,7 @@ color 102,153,255
 track 12059_H3K4me2
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b590c82c1b7d7c0a61/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longlabel 12059_H3K4me2
+longLabel 12059_H3K4me2
 type bigWig 0.816622 10
 configurable on
 visibility full
