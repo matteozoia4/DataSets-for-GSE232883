@@ -169,7 +169,7 @@ gridDefault off
 color 102,102,204 
 
 track FDchip_pcw17_12570_lv_h3k27ac_peaks
-bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b560fc9a63eea64d54/display?to_ext=interval
+bigDataUrl 
 itemRgb on
 shortLabel Caylin_ChIP_FD
 longLabel FDchip_pcw17_12570_lv_h3k27ac_peaks       
@@ -221,7 +221,7 @@ gridDefault off
 color 102,102,204 
 
 track FDchip_pcw17_12570_rv_h3k27ac_peaks
-bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ffe49582564523b3/display?to_ext=interval
+bigDataUrl 
 itemRgb on
 shortLabel Caylin_ChIP_FD
 longLabel FDchip_pcw17_12570_rv_h3k27ac_peaks       
@@ -273,7 +273,7 @@ gridDefault off
 color 102,102,204 
 
 track FDchip_pcw17_12570_la_h3k27ac_peaks
-bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5065da710f5dc8a8a/display?to_ext=interval
+bigDataUrl 
 itemRgb on
 shortLabel Caylin_ChIP_FD
 longLabel FDchip_pcw17_12570_la_h3k27ac_peaks       
@@ -325,7 +325,7 @@ gridDefault off
 color 102,102,204 
 
 track FDchip_pcw17_12570_ra_h3k27ac_peaks
-bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b516ed7015fddf9610/display?to_ext=interval
+bigDataUrl 
 itemRgb on
 shortLabel Caylin_ChIP_FD
 longLabel FDchip_pcw17_12570_ra_h3k27ac_peaks       
