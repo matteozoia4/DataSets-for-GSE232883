@@ -4,7 +4,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_lv.rpm.minus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
@@ -20,7 +20,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_lv.rpm.plus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
@@ -36,7 +36,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_rv.rpm.minus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
@@ -52,7 +52,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_rv.rpm.plus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
@@ -68,7 +68,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_la.rpm.minus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
@@ -84,7 +84,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_la.rpm.plus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
@@ -116,7 +116,7 @@ shortLabel Caylin_RNA_FD
 longLabel FDrna_pcw17_12570_ra.rpm.plus
 type bigWig 0.816622 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0.816622:10
 viewLimitsMax 0.816622:124.127
