@@ -174,10 +174,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51
 
-track GSM4119589_CS16_12997
+track CS16_12997
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b54450fb416d9e8654/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119589_CS16_12997
+longLabel CS16_12997
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -734,10 +734,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K36me3
+track CS14_14135_H3K36me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f541729e7bb773c3/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K36me3
+longLabel CS14_14135_H3K36me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -750,10 +750,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K36me3
+track CS16_12997_H3K36me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5ec874e90c4c17f84/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K36me3
+longLabel CS16_12997_H3K36me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -766,10 +766,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K36me3
+track CS13_12690_H3K36me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b54e4f15c4b748525e/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K36me3
+longLabel CS13_12690_H3K36me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -830,10 +830,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K36me3
+track CS14_12408_H3K36me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5349d8d915b916075/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K36me3
+longLabel CS14_12408_H3K36me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -846,10 +846,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K36me3
+track CS13_12383_H3K36me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5693b500ee46bb104/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K36me3
+longLabel CS13_12383_H3K36me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1022,10 +1022,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K9me3
+track CS14_14135_H3K9me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5eaaea47c0d545335/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K9me3
+longLabel CS14_14135_H3K9me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1038,10 +1038,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K9me3
+track CS16_12997_H3K9me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b566997a2cc5cb29d9/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K9me3
+longLabel CS16_12997_H3K9me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1054,10 +1054,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K9me3
+track CS13_12690_H3K9me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5178ad7fd4345d65d/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K9me3
+longLabel CS13_12690_H3K9me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1118,10 +1118,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K9me3
+track CS14_12408_H3K9me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b55e327a360676b9c4/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K9me3
+longLabel CS14_12408_H3K9me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1134,10 +1134,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K9me3
+track CS13_12383_H3K9me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50a4c9460bf5d07dd/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K9me3
+longLabel CS13_12383_H3K9me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1310,10 +1310,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K27me3
+track CS14_14135_H3K27me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e7675ea94ba37864/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K27me3
+longLabel CS14_14135_H3K27me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1326,10 +1326,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K27me3
+track CS16_12997_H3K27me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5daa60c1ebf66c842/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K27me3
+longLabel CS16_12997_H3K27me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1342,10 +1342,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K27me3
+track CS13_12690_H3K27me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5cfa5c082250c324e/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K27me3
+longLabel CS13_12690_H3K27me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1406,10 +1406,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K27me3
+track CS14_12408_H3K27me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53158db806a907771/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K27me3
+longLabel CS14_12408_H3K27me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1422,10 +1422,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K27me3
+track CS13_12383_H3K27me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53570215d84c9c000/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K27me3
+longLabel CS13_12383_H3K27me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1598,10 +1598,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K27ac
+track CS14_14135_H3K27ac
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53106aadfda56a66d/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K27ac
+longLabel CS14_14135_H3K27ac
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1614,10 +1614,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K27ac
+track CS16_12997_H3K27ac
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b509a9855ef20c291d/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K27ac
+longLabel CS16_12997_H3K27ac
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1630,10 +1630,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K27ac
+track CS13_12690_H3K27ac
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5304e1dbebad97da9/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K27ac
+longLabel CS13_12690_H3K27ac
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1694,10 +1694,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K27ac
+track CS14_12408_H3K27ac
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56f921ca5f9bfc9ee/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K27ac
+longLabel CS14_12408_H3K27ac
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1710,10 +1710,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K27ac
+track CS13_12383_H3K27ac
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58534c7c568b6b270/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K27ac
+longLabel CS13_12383_H3K27ac
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1886,10 +1886,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K4me3
+track CS14_14135_H3K4me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b528826fc814baeb5c/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K4me3
+longLabel CS14_14135_H3K4me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1902,10 +1902,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K4me3
+track CS16_12997_H3K4me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58390587adf4c0e4f/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K4me3
+longLabel CS16_12997_H3K4me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1918,10 +1918,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K4me3
+track CS13_12690_H3K4me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5b87c24798177e11b/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K4me3
+longLabel CS13_12690_H3K4me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1982,10 +1982,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K4me3
+track CS14_12408_H3K4me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58b5fdf12b3ef442e/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K4me3
+longLabel CS14_12408_H3K4me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -1998,10 +1998,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K4me3
+track CS13_12383_H3K4me3
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e12e76b3bf6ab001/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K4me3
+longLabel CS13_12383_H3K4me3
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2174,10 +2174,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K4me2
+track CS14_14135_H3K4me2
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b512826c6df99360cb/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K4me2
+longLabel CS14_14135_H3K4me2
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2190,10 +2190,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K4me2
+track CS16_12997_H3K4me2
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f94b3569cbcfffda/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K4me2
+longLabel CS16_12997_H3K4me2
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2206,10 +2206,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K4me2
+track CS13_12690_H3K4me2
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b55180273d6ae566f9/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K4me2
+longLabel CS13_12690_H3K4me2
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2270,10 +2270,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K4me2
+track CS14_12408_H3K4me2
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b511fd6ec33d874bf1/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K4me2
+longLabel CS14_12408_H3K4me2
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2286,10 +2286,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K4me2
+track CS13_12383_H3K4me2
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56410532b6993202d/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K4me2
+longLabel CS13_12383_H3K4me2
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2462,10 +2462,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 14135_H3K4me1
+track CS14_14135_H3K4me1
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57ee052e4f299f713/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 14135_H3K4me1
+longLabel CS14_14135_H3K4me1
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2478,10 +2478,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12997_H3K4me1
+track CS16_12997_H3K4me1
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b53675e01dd48efc2f/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12997_H3K4me1
+longLabel CS16_12997_H3K4me1
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2494,10 +2494,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12690_H3K4me1
+track CS13_12690_H3K4me1
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b50a01bb3201717083/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12690_H3K4me1
+longLabel CS13_12690_H3K4me1
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2558,10 +2558,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12408_H3K4me1
+track CS14_12408_H3K4me1
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58f63c51ce4fc5b84/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12408_H3K4me1
+longLabel CS14_12408_H3K4me1
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2574,10 +2574,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 12383_H3K4me1
+track CS13_12383_H3K4me1
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5c6f58c9d016056d4/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 12383_H3K4me1
+longLabel CS13_12383_H3K4me1
 type bigWig 0.816622 10
 configurable on
 visibility full
@@ -2718,10 +2718,10 @@ yLineMark 1
 gridDefault off
 color 102,153,255
 
-track 11849_H3K4me1
+track CS21_11849_H3K4me1
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b546b29d42563530d9/display?to_ext=bigwig
 shortLabel VanOudenhove_ChIP
-longLabel 11849_H3K4me1
+longLabel CS21_11849_H3K4me1
 type bigWig 0.816622 10
 configurable on
 visibility full
