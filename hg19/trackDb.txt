@@ -126,10 +126,10 @@ yLineMark 1
 gridDefault off
 color 204,153,51
 
-track GSM4119586_CS12_14131
+track CS12_14131
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5e8904e8fed420c76/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119586_CS12_14131
+longLabel CS12_14131
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -142,10 +142,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119587_CS13_14401
+track CS13_14401
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b503877f824beadc23/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119587_CS13_14401
+longLabel CS13_14401
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -158,10 +158,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119588_CS13_14479
+track CS13_14479
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5a01ecac4d423fb82/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119588_CS13_14479
+longLabel CS13_14479
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -190,10 +190,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119590_CS16_14209
+track CS16_14209
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b54668d1ac290ef649/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119590_CS16_14209
+longLabel CS16_14209
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -206,10 +206,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119591_CS16_14213
+track CS16_14213
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b553a1249e93ddea97/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119591_CS16_14213
+longLabel CS16_14213
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -254,10 +254,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119594_CS17_12752
+track CS17_12752
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b52e479d4f4b81e6bb/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119594_CS17_12752
+longLabel CS17_12752
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -302,10 +302,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119597_CS18_13474
+track CS18_13474
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5f7837e2a9738ad18/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119597_CS18_13474
+longLabel CS18_13474
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -350,10 +350,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119600_CS19_12248
+track CS19_12248
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5a2183941ed0c3c0d/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119600_CS19_12248
+longLabel CS19_12248
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -398,10 +398,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119603_CS20_13068
+track CS20_13068
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b572f34df432295f12/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119603_CS20_13068
+longLabel CS20_13068
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -446,10 +446,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119606_CS21_12210
+track CS21_12210
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5d2e6c10a6f34de4e/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119606_CS21_12210
+longLabel CS21_12210
 type bigWig 0.816622 10
 configurable on
 visibility dense
@@ -494,10 +494,10 @@ yLineMark 1
 gridDefault off
 color 255,153,51 
 
-track GSM4119609_CS23_12193
+track CS23_12193
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b59e2f63a606c526fb/display?to_ext=bigwig
 shortLabel VanOudenhove_RNA
-longLabel GSM4119609_CS23_12193
+longLabel CS23_12193
 type bigWig 0.816622 10
 configurable on
 visibility dense
