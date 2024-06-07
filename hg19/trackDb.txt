@@ -6,7 +6,7 @@ longLabel GSM7385440_pcw17_12570_ra_h3k27ac_peaks.bed
 type bigBed 3 .
 configurable on
 visibility dense
-color 255,0,102 
+color 0,0,0
 
 track GSM7385440_pcw17_12570_ra_h3k27ac.hg19.uu.sort.ext.rpm.bw
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135518ceeb440270c1b/display?to_ext=bigwig
@@ -27,7 +27,7 @@ track GSM7385440_pcw17_12570_ra_h3k27ac.hg19.uu.sort.ext.rpm.bw
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 255,0,102
+    color 0,0,0
 
 
 
@@ -40,7 +40,7 @@ longLabel GSM7385438_pcw17_12570_la_h3k27ac_peaks.bed
 type bigBed 3 .
 configurable on
 visibility dense
-color 255,0,102 
+color 0,0,0 
 
 track GSM7385438_pcw17_12570_la_h3k27ac.hg19.uu.sort.ext.rpm.bw
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575cfa468a99feff5/display?to_ext=bigwig
@@ -61,7 +61,7 @@ track GSM7385438_pcw17_12570_la_h3k27ac.hg19.uu.sort.ext.rpm.bw
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 255,0,102
+    color 0,0,0
 
 
 
@@ -74,7 +74,7 @@ longLabel GSM7385436_pcw17_12570_rv_h3k27ac_peaks.bed
 type bigBed 3 .
 configurable on
 visibility dense
-color 255,0,102 
+color 0,0,0 
 
 track GSM7385436_pcw17_12570_rv_h3k27ac.hg19.uu.sort.ext.rpm.bw
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135de8688a59f0861eb/display?to_ext=bigwig
@@ -95,7 +95,7 @@ track GSM7385436_pcw17_12570_rv_h3k27ac.hg19.uu.sort.ext.rpm.bw
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 255,0,102
+    color 0,0,0
 
 
 
@@ -108,7 +108,7 @@ longLabel GSM7385434_pcw17_12570_lv_h3k27ac_peaks.bed
 type bigBed 3 .
 configurable on
 visibility dense
-color 255,0,102 
+color 0,0,0 
 
 track GSM7385434_pcw17_12570_lv_h3k27ac.hg19.uu.sort.ext.rpm.bw
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351178a393e6e695d2/display?to_ext=bigwig
@@ -129,4 +129,4 @@ track GSM7385434_pcw17_12570_lv_h3k27ac.hg19.uu.sort.ext.rpm.bw
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 255,0,102
+    color 0,0,0
