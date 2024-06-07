@@ -1,5 +1,5 @@
-hub ChIPseq RNA-seq VanOudenhove Spurrell
-shortLabel VanOudenhove Spurrell
-longLabel ChIPseq RNA-seq VanOudenhove Spurrell
+A gene desert required for regulatory control of pleiotropic Shox2 expression and embryonic survival [ChIP-seq] 
+shortLabel DataSets for GSE232883
+longLabel GSM7385434:12570_PCW17_LV_H3K27ac|GSM7385435:12570_PCW17_LV_input|GSM7385436:12570_PCW17_RV_H3K27ac|GSM7385437:12570_PCW17_RV_input|GSM7385438:12570_PCW17_LA_H3K27ac|GSM7385439:12570_PCW17_LA_input|GSM7385440:12570_PCW17_RA_H3K27ac|GSM7385441:12570_PCW17_RA_input
 genomesFile genomes.txt 
 email  matteo.zoia@dbmr.unibe.ch
