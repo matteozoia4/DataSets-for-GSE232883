@@ -17,8 +17,8 @@ track GSM7385440_pcw17_12570_ra_h3k27ac.hg19.uu.sort.ext.rpm.bw
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:8
-    viewLimitsMax 0:8
+    viewLimits 0:2
+    viewLimitsMax 0:2
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -51,8 +51,8 @@ track GSM7385438_pcw17_12570_la_h3k27ac.hg19.uu.sort.ext.rpm.bw
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:8
-    viewLimitsMax 0:8
+    viewLimits 0:2
+    viewLimitsMax 0:2
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -85,8 +85,8 @@ track GSM7385436_pcw17_12570_rv_h3k27ac.hg19.uu.sort.ext.rpm.bw
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:8
-    viewLimitsMax 0:8
+    viewLimits 0:2
+    viewLimitsMax 0:2
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -119,8 +119,8 @@ track GSM7385434_pcw17_12570_lv_h3k27ac.hg19.uu.sort.ext.rpm.bw
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:8
-    viewLimitsMax 0:8
+    viewLimits 0:2
+    viewLimitsMax 0:2
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
